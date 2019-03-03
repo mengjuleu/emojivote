@@ -1,0 +1,19 @@
+hash: 57ba21e4252d970a37a7bc7996fe48664b3e70bbc215056e679f9addbbfe584e
+updated: 2019-03-02T14:15:55.475519-08:00
+imports:
+- name: github.com/globalsign/mgo
+  version: eeefdecb41b842af6dc652aaea4026e8403e62df
+  subpackages:
+  - bson
+  - internal/json
+  - internal/sasl
+  - internal/scram
+- name: github.com/go-bongo/bongo
+  version: 761759e31d8fed917377aa7085db01d218ce50d8
+- name: github.com/go-bongo/go-dotaccess
+  version: ae070a2d2a38fd7233e255ded21fb26fe36b4796
+- name: github.com/go-chi/chi
+  version: da24bba8dcd4021cafac38724bf10dccc97c3e36
+- name: github.com/oleiade/reflections
+  version: 0e86b3c98b2ff33e30c85cfe97d9a63d439fe7eb
+testImports: []

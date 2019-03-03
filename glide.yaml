@@ -1,0 +1,4 @@
+package: github.com/emoji
+import:
+- package: github.com/go-chi/chi
+  version: v4.0.2
